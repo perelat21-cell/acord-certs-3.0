@@ -1,0 +1,24 @@
+# Roadmap
+
+- [x] Apply a modern fresh-white, eucalyptus, and restrained-blue visual system across the app
+- [x] Make ACORD 25 and 28 the primary workflows; keep all other forms secondary
+- [x] Generate and merge complete ACORD application packages
+- [x] Add ACORD 126, 131, and 140 template support
+- [x] Update result and history language for multi-form packages
+- [x] Verify certificate and application workflows
+- [x] Allow ACORD 25 and 28 to be generated together as one certificate package
+- [x] Update fixed producer name, address, and contact details
+- [x] Research and insert verified carrier NAIC codes during every generation
+- [x] Verify producer and NAIC field handling for ACORD 25 and 28 templates
+- [x] Republish the updated app
+- [x] Add a result-page option to create a sample certificate
+- [x] Replace policy numbers with TBD and watermark every sample page
+- [x] Verify sample output and republish it
+- [x] Assign a random producer certificate number to each certificate
+- [x] Keep double-check notes concise
+- [x] Install and use ACORD 101 for ACORD 28 supporting details and ACORD 25 description overflow
+- [x] Accept dragged Outlook message files in the request upload
+- [x] Allow completed documents to be deleted from Issued
+- [x] Label ACORD 25 location lines instead of inserting bare addresses
+- [x] Keep ACORD 28 location fields concise unless property details are requested
+- [x] Automatically present the sample copy when the request asks for a SAMPLE watermark

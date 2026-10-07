@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790209053612,
+      "tag": "0000_certificate_assistant_schema",
+      "breakpoints": true
+    }
+  ]
+}
