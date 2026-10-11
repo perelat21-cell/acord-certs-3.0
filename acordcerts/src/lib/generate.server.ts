@@ -273,7 +273,7 @@ export async function runGeneration(input: {
     required: ["certificate_type", "insured_name", "holder_name", "summary", "forms", "unfulfilled", "missing", "double_check", "sample_requested", "naic_research"],
   };
 
-  const endpoint = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent";
+  const endpoint = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent";
 
   console.log("GEMINI DEBUG — parts:", parts.length);
 console.log("GEMINI DEBUG — system chars:", SYSTEM.length);
